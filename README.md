@@ -1,2 +1,2 @@
-# ssh-tap
-Simple SSH Client in python
+# protocol-tap
+Simple protocols client in python
